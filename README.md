@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Navya</h1>
-<h3 align="center">A passionate software engineer with over 4 years of experience specializing in Java, SpringBoot, and ReactJS. Currently pursuing my Master’s in Computer Science at UNC Charlotte.</h3>
+<h3 align="center">Highly motivated and detail-oriented software professional with 3 years of experience in delivering solutions using Java, Spring Boot, Microservices, C#, .NET, React, and Cloud technologies. Seeking a challenging position that leverages my technical expertise and passion for innovation to drive business growth and success.. Currently pursuing my Master’s in Computer Science at UNC Charlotte.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Navya-vejalla&label=Profile%20views&color=0e75b6&style=flat" alt="Navya-vejalla" /> </p>
+
 
 
 - 🔭 I’m currently working on 
